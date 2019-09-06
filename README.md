@@ -1,5 +1,6 @@
 # SCSR (Sum of Complex Sparse Regularizers)
-MATLAB demo code of SCSR optimization for reconstruction of complex discrete-valued vectors
+MATLAB demo code of SCSR optimization for reconstruction of complex discrete-valued vectors  
+(An extension to nonconvex optimization is [here](https://github.com/rhayakawa/SSR))
 
 ## Author
 [Ryo Hayakawa](http://www.ip.info.eng.osaka-cu.ac.jp/~rhayakawa/index-e.html) (e-mail: rhayakawa@sys.i.kyoto-u.ac.jp)
