@@ -3,7 +3,7 @@ MATLAB demo code of SCSR optimization for reconstruction of complex discrete-val
 (An extension to nonconvex optimization is [here](https://github.com/rhayakawa/SSR))
 
 ## Author
-[Ryo Hayakawa](http://www.ip.info.eng.osaka-cu.ac.jp/~rhayakawa/index-e.html) (e-mail: rhayakawa@sys.i.kyoto-u.ac.jp)
+[Ryo Hayakawa](https://rhayakawa.github.io/index-e.html) (e-mail: rhayakawa@sys.es.osaka-u.ac.jp)
 
 ## Article
 Ryo Hayakawa and Kazunori Hayashi,  
